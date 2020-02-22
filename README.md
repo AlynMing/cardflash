@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` This app shows a question and when clicked, will show the answer.
+This app shows a question and when clicked, will show the answer.
 
 ### App Walk-though
 
